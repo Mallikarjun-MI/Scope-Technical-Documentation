@@ -1,0 +1,44 @@
+{
+	  "DocumentDate": "2020-11-03",
+	  "DocumentDueDate": "2020-11-04",
+	  "CustomerCode": "C0016",
+	  "CustomerName": "hariprabu",
+	  "CustomerRefNo": "1804_4",
+  	  "BranchCode": 4,
+	  "SalesEmployeeCode": 3,
+	  "DiscountPercent" : 10.0 ,
+	  "DiscountSum" : 0.0,
+	  "VechicleNumber": "KL-05-2589",
+	  "TransporterName" : "Arjun2",
+	  "orderType": "Stock",
+	  "Location": "Kerala",
+	  "NOrderType": "SalesOrder",
+    "DocumentLines": [
+        {
+            "ItemCode": "ITM000003",
+		 "ItemName": "Geo coil 0.30",
+            "Quantity": "1",
+            "TaxCode": "IGST12",
+		 "WarehouseCode": "WH10",
+		 "DiscountPercent": 5.0,
+		 "HandlingCharges": 10.0,
+		 "Uom" : ""
+        },
+			{
+            "ItemCode": "ITM000003",
+		 "ItemName": "Geo coil 0.30",
+            "Quantity": "1",
+            "TaxCode": "IGST12",
+		 "WarehouseCode": "WH10",
+		 "DiscountPercent": 8.0,
+		 "HandlingCharges": 11.0,
+		 "Uom" : ""
+        }
+    ],
+	  "DocumentAdditionalExpenses" : [
+			{
+			"ExpenseCode": 2,
+			"LineTotal": 77.0
+			}
+		]
+}

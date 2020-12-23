@@ -1,0 +1,39 @@
+
+{
+	"CustomerCode": "C180417",
+	"CustomerName": "D N Arjun Majeti",
+     "GroupCode": 109,
+	"Cellular": "1234567890",
+	"EmailAddress": "test2@gmail.com",
+	"BPAddresses": [
+        {
+	    "RowNum": 0,
+          "AddressName": "Arjun1",
+          "Street": "18",
+          "Block": "A",         
+          "City": "Guntur",
+          "District": "Guntur_1",        
+		"ZipCode": "522001",
+          "State": "AP",
+		"Country": "IN",
+          "AddressType": "bo_BillTo"         
+        },
+        {
+		"RowNum": 1,
+          "AddressName": "Arjun2",
+          "Street": "19",
+          "Block": "B",
+          "City": "Guntur2",
+          "District": "Guntur_2",        
+		"ZipCode": "522002",
+          "State": "KL",
+		"Country": "IN",
+          "AddressType": "bo_ShipTo"
+        }
+      ], 
+	"BPFiscalTaxIDCollection": [
+    {
+      "PanCardNo": "ZXCPM1478H"
+		}
+		 ]
+}
